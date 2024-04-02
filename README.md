@@ -1,4 +1,4 @@
-# for-scratch-to-exe-or-web-app
+# scratch-to-exe-or-web-app
 <BR>Russian:Это новый уникальный способ превращения web приложения в exe. Для scratch перейдите в <a href="https://packager.turbowarp.org/">Turbowarp</a> и сконвертируйте ваш проект в exe(обязательно переменуйте %scratch-project%.html в index.html.
 <BR>English:This is a new unique way to turn a web application into an exe. For scratch, go to <a href="https://packager.turbowarp.org/">Turbowarp</a> and convert your project to html(be sure to change%scratch-project%.html in index.html ).
 <BR>Russian:

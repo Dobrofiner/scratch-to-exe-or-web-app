@@ -3,7 +3,7 @@
 <BR>English:This is a new unique way to turn a web application into an exe. For scratch, go to <a href="https://packager.turbowarp.org/">Turbowarp</a> and convert your project to html(be sure to change%scratch-project%.html in index.html ).
 <BR>Russian:
 <BR>1.Подготовка:
-<BR>Скачайте репозиторий.
+<BR>Скачайте <a href="https://github.com/Dobroposter/scratch-to-exe-or-web-app">этот</a> репозиторий.
 <BR>2.Распаковка и Настройка:
 <BR>Установите Notepad++ для редактирования текста, Falco Icon Studio для создания иконок и Resource Hacker для редактирования ресурсов.(Все установщики в репозитории, resource hacker в папке resource_hacker)
 <BR>Распакуйте архив forscratchtoexe.7z в желаемое место.
@@ -28,7 +28,7 @@
 <BR>PROFIT! Теперь ваше веб-приложение готово к использованию в виде .exe файла.
 <BR>English:
 <BR>1. Preparation:
-<BR>Download the repository.
+<BR>Download <a href="https://github.com/Dobroposter/scratch-to-exe-or-web-app">this</a> repository.
 <BR>2. Unpacking and Setup:
 <BR>Install Notepad++ for text editing, Falco Icon Studio for creating icons, and Resource Hacker for editing resources. (All installers are in the repository,  but resource hacker in resource_hacker dir)
 <BR>Unpack the forscratchtoexe.7z archive to the desired location.

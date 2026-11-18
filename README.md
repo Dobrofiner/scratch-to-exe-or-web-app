@@ -5,7 +5,7 @@
 <BR>1.Подготовка:
 <BR>Скачайте <a href="https://github.com/Dobroposter/scratch-to-exe-or-web-app">этот</a> репозиторий.
 <BR>2.Распаковка и Настройка:
-<BR>Установите Notepad++ для редактирования текста, Falco Icon Studio для создания иконок и Resource Hacker для редактирования ресурсов.(Все установщики в репозитории, resource hacker в папке resource_hacker)
+<BR>Установите Notepad++ для редактирования текста, Falco Icon Studio для создания иконок и Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker) для редактирования ресурсов.(Все установщики в репозитории, resource hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker) в папке resource_hacker)
 <BR>Распакуйте архив forscratchtoexe.7z в желаемое место.
 <BR>Переименуйте папку в соответствии с названием вашего приложения.
 <BR>В каждой папке переименуйте внутренний .exe файл, используя имя вашего приложения.
@@ -30,7 +30,7 @@
 <BR>1. Preparation:
 <BR>Download <a href="https://github.com/Dobroposter/scratch-to-exe-or-web-app">this</a> repository.
 <BR>2. Unpacking and Setup:
-<BR>Install Notepad++ for text editing, Falco Icon Studio for creating icons, and Resource Hacker for editing resources. (All installers are in the repository,  but resource hacker in resource_hacker dir)
+<BR>Install Notepad++ for text editing, Falco Icon Studio for creating icons, and Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker) for editing resources. (All installers are in the repository,  but resource hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker) in resource_hacker dir)
 <BR>Unpack the forscratchtoexe.7z archive to the desired location.
 <BR>Rename the folder according to the name of your application.
 <BR>In each folder, rename the internal .exe file using the name of your application.
